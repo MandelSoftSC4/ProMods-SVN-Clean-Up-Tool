@@ -1,0 +1,6 @@
+c:\users\mrtnr\documents\visual studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\bin\Debug\PMD-usage-filter.exe.config
+C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\bin\Debug\PMD-usage-filter.exe
+C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\bin\Debug\PMD-usage-filter.pdb
+C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\obj\Debug\PMD-usage-filter.csprojResolveAssemblyReference.cache
+C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\obj\Debug\PMD-usage-filter.exe
+C:\Users\mrtnr\Documents\Visual Studio 2015\Projects\PMD-usage-filter\PMD-usage-filter\obj\Debug\PMD-usage-filter.pdb
